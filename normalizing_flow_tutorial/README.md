@@ -69,7 +69,7 @@ $$p(x)=p_{z}(f(x))*|\det Df(x)|$$
   
   Inverse : $f^{-1} _i (z) = \frac{z_i - \mu(z_{<i})}{\sigma(z_{<i})}$
     
-    - 샘플링이 순차적이고 느리지만 Density evaluation은 병렬적으로 수행된다.
+  샘플링이 순차적이고 느리지만 Density evaluation은 병렬적으로 수행된다.
 <br>
 4. Multi Scale flows
     
@@ -83,6 +83,7 @@ $$p(x)=p_{z}(f(x))*|\det Df(x)|$$
   - 계산 효율을 높이고 메모리 효율이 좋아짐.
 <br>
 <br>
+
 ### 1-3. Discrete time NF → Continuous time NF
 
 - discrete을 continuous으로 모델링을 하고 싶다 → ODE를 사용해라, Dequantization을 사용해라!
