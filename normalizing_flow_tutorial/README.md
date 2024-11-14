@@ -1,6 +1,7 @@
 # Normalizing_flow
-
-
+<br> <br> 
+<center width="100%"><img src="normalizing_flow_layout.png" width="700px"></center>
+<br> <br> 
 $$p(x)=p_{z}(f(x))*|\det Df(x)|$$
  <br> 
   <br> 
