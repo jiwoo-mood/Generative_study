@@ -1,1 +1,0 @@
-# DDPM vs DDIM
